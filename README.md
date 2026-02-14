@@ -1,5 +1,7 @@
- Customer Shopping Behavior Analytics
-Project Overview
+ **Customer Shopping Behavior Analytics**
+
+# Project Overview
+
 
 This project demonstrates an end-to-end data analytics workflow — from raw data processing to business intelligence reporting.
 
