@@ -1,4 +1,4 @@
- # ustomer Shopping Behavior Analytics
+ # Customer Shopping Behavior Analytics
 
 **Project Overview**
 
